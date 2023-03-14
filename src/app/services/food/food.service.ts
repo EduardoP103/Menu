@@ -59,6 +59,7 @@ export class FoodService {
         stars: 4.7,
         imageUrl: '/assets/images/chiuche.png',
         tags: ['desayuno', 'postre'],
+
       },
       {
         id: 3,
